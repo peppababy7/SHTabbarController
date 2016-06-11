@@ -15,13 +15,9 @@ s.homepage         = 'https://github.com/harushuu/SHTabbarController'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { '@harushuu' => 'hunter4n@gmail.com' }
 s.source           = { :git => 'https://github.com/harushuu/SHTabbarController.git', :tag => '0.1.0' }
-
 s.platform     = :ios, '8.0'
 s.requires_arc = true
-
 s.source_files = 'SHTabbarController/*'
-
-s.public_header_files = 'Pod/Classes/**/*.h'
 s.frameworks = 'UIKit'
 s.dependency 'BFPaperButton', '~> 2.0.29'
 end

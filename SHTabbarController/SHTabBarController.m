@@ -131,7 +131,7 @@
 
 - (void)tabBarController:(UITabBarController *)tabBarController didSelectViewController:(UIViewController *)viewController {
     if (self.customDelegate && [self.customDelegate respondsToSelector:@selector(tabbarControllerDidSelectedViewController:)]) {
-        [self.customDelegate tabbarControllerDidSelectedViewController:viewController];
+        [self.customDelegate tabbarControllerDidSelectedViewController:(UINavigationController *)viewController];
     }
 }
 
