@@ -1,7 +1,7 @@
 PODS:
   - BFPaperButton (2.0.29):
     - UIColor+BFPaperColors
-  - SHTabbarController (0.1.0):
+  - SHTabbarController (0.1.2):
     - BFPaperButton (~> 2.0.29)
   - UIColor+BFPaperColors (1.7.2)
 
@@ -14,7 +14,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   BFPaperButton: 7df738f2e749a9a4edd3e043f0621ee02215e417
-  SHTabbarController: 44dc6ffee31291ac0ce90b86ab23d1de0dfd001b
+  SHTabbarController: d5ce18cb91c0b2402943574e58a20465b0c6416d
   UIColor+BFPaperColors: 03101fe6c10ed00c6daae7c26553f1de41500853
 
 PODFILE CHECKSUM: 56b672d5e12b9198875e26c1e3b4057fb8341ba6
