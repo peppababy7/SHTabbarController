@@ -1,0 +1,22 @@
+PODS:
+  - BFPaperButton (2.0.29):
+    - UIColor+BFPaperColors
+  - SHTabbarController (0.1.0):
+    - BFPaperButton (~> 2.0.29)
+  - UIColor+BFPaperColors (1.7.2)
+
+DEPENDENCIES:
+  - SHTabbarController (from `../`)
+
+EXTERNAL SOURCES:
+  SHTabbarController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BFPaperButton: 7df738f2e749a9a4edd3e043f0621ee02215e417
+  SHTabbarController: 44dc6ffee31291ac0ce90b86ab23d1de0dfd001b
+  UIColor+BFPaperColors: 03101fe6c10ed00c6daae7c26553f1de41500853
+
+PODFILE CHECKSUM: 56b672d5e12b9198875e26c1e3b4057fb8341ba6
+
+COCOAPODS: 1.0.1
