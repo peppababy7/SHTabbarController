@@ -6,8 +6,7 @@
 
 
 ## Screenshots
-
-![image](https://github.com/harushuu/SHTabbarController/Screenshots.gif)
+![image](https://github.com/harushuu/SHTabbarController/raw/master/Screenshots.gif)
 
 ## Installation
 
