@@ -1,8 +1,10 @@
 # SHTabbarController
 ====================
 
-![License](https://img.shields.io/cocoapods/l/TWPhotoPicker.svg)
-![Platform](https://img.shields.io/cocoapods/p/TWPhotoPicker.svg)
+[![CI Status](http://img.shields.io/travis/@harushuu/SHTabbarController.svg?style=flat)](https://travis-ci.org/@harushuu/SHTabbarController)
+[![Version](https://img.shields.io/cocoapods/v/SHTabbarController.svg?style=flat)](http://cocoapods.org/pods/SHTabbarController)
+[![License](https://img.shields.io/cocoapods/l/SHTabbarController.svg?style=flat)](http://cocoapods.org/pods/SHTabbarController)
+[![Platform](https://img.shields.io/cocoapods/p/SHTabbarController.svg?style=flat)](http://cocoapods.org/pods/SHTabbarController)
 
 
 ## Screenshots
@@ -42,8 +44,12 @@ and run `pod install`, then you're all done!
 
 ## Requirements
 
-* iOS 7.0+ 
+* iOS 8.0+ 
 * ARC
+
+## Author
+
+@harushuu, hunter4n@gmail.com
 
 ## License
 
