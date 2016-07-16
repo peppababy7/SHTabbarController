@@ -11,7 +11,7 @@ s.name             = 'SHTabbarController'
 s.version          = '0.1.2'
 s.summary          = 'A simple UITabbarController with round center button.'
 s.homepage         = 'https://github.com/harushuu/SHTabbarController'
-# s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+s.screenshots      = 'https://github.com/harushuu/SHTabbarController/raw/master/Screenshots.gif'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { '@harushuu' => 'hunter4n@gmail.com' }
 s.source           = { :git => 'https://github.com/harushuu/SHTabbarController.git', :tag => '0.1.2' }
